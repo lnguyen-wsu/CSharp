@@ -1,0 +1,13 @@
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\bin\Debug\netcoreapp3.1\Find_Number_Input.exe
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\bin\Debug\netcoreapp3.1\Find_Number_Input.deps.json
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\bin\Debug\netcoreapp3.1\Find_Number_Input.runtimeconfig.json
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\bin\Debug\netcoreapp3.1\Find_Number_Input.runtimeconfig.dev.json
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\bin\Debug\netcoreapp3.1\Find_Number_Input.dll
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\bin\Debug\netcoreapp3.1\Find_Number_Input.pdb
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\obj\Debug\netcoreapp3.1\Find_Number_Input.csprojAssemblyReference.cache
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\obj\Debug\netcoreapp3.1\Find_Number_Input.AssemblyInfoInputs.cache
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\obj\Debug\netcoreapp3.1\Find_Number_Input.AssemblyInfo.cs
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\obj\Debug\netcoreapp3.1\Find_Number_Input.csproj.CoreCompileInputs.cache
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\obj\Debug\netcoreapp3.1\Find_Number_Input.dll
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\obj\Debug\netcoreapp3.1\Find_Number_Input.pdb
+D:\C##\HighTouch\Find_Number_Input\Find_Number_Input\obj\Debug\netcoreapp3.1\Find_Number_Input.genruntimeconfig.cache
