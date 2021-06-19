@@ -1,0 +1,13 @@
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\bin\Debug\netcoreapp3.1\FindNumberByScalling.exe
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\bin\Debug\netcoreapp3.1\FindNumberByScalling.deps.json
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\bin\Debug\netcoreapp3.1\FindNumberByScalling.runtimeconfig.json
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\bin\Debug\netcoreapp3.1\FindNumberByScalling.runtimeconfig.dev.json
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\bin\Debug\netcoreapp3.1\FindNumberByScalling.dll
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\bin\Debug\netcoreapp3.1\FindNumberByScalling.pdb
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\obj\Debug\netcoreapp3.1\FindNumberByScalling.csprojAssemblyReference.cache
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\obj\Debug\netcoreapp3.1\FindNumberByScalling.AssemblyInfoInputs.cache
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\obj\Debug\netcoreapp3.1\FindNumberByScalling.AssemblyInfo.cs
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\obj\Debug\netcoreapp3.1\FindNumberByScalling.csproj.CoreCompileInputs.cache
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\obj\Debug\netcoreapp3.1\FindNumberByScalling.dll
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\obj\Debug\netcoreapp3.1\FindNumberByScalling.pdb
+D:\C##\Practice\Beginner(AfterOffer)\FindNumberByScaling\FindNumberByScalling\FindNumberByScalling\obj\Debug\netcoreapp3.1\FindNumberByScalling.genruntimeconfig.cache
